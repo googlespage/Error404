@@ -1,0 +1,101 @@
+#EXTM3U
+
+####################### beIN SPORTS 320p #######################
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS 320p",beIN SPORTS 1
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS 320p",beIN SPORTS 2
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS 320p",beIN SPORTS 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS 320p",beIN SPORTS 4
+https://py.dencreak.com/bn_s_sd4.m3u8?token=
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS 320p",beIN SPORTS 5
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS 320p",beIN SPORTS 6
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS 320p",beIN SPORTS 7
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS 320p",beIN SPORTS 8
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS 320p",beIN SPORTS 9
+http://134.19.178.202/bein-9/tracks-v1a1/mono.ts.m3u8
+
+####################### beIN SPORTS 480p #######################
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS 480p",beIN SPORTS 1
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS 480p",beIN SPORTS 2
+http://176.119.29.35/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS 480p",beIN SPORTS 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS 480p",beIN SPORTS 4
+https://py.dencreak.com/bn_s_sd4.m3u8?token=
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS 480p",beIN SPORTS 5
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS 480p",beIN SPORTS 6
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS 480p",beIN SPORTS 7
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS 480p",beIN SPORTS 8
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS 480p",beIN SPORTS 9
+http://134.19.178.202/bein-9/tracks-v1a1/mono.ts.m3u8
+
+####################### beIN SPORTS 720p #######################
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS 720p",beIN SPORTS 1
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS 720p",beIN SPORTS 2
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS 720p",beIN SPORTS 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS 720p",beIN SPORTS 4
+https://py.dencreak.com/bn_s_sd4.m3u8?token=
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS 720p",beIN SPORTS 5
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS 720p",beIN SPORTS 6
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS 720p",beIN SPORTS 7
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS 720p",beIN SPORTS 8
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS 720p",beIN SPORTS 9
+http://134.19.178.202/bein-9/tracks-v1a1/mono.ts.m3u8
+
+####################### beIN SPORTS 1080p #######################
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS 1080p",beIN SPORTS 1
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS 1080p",beIN SPORTS 2
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS 1080p",beIN SPORTS 3
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS 1080p",beIN SPORTS 4
+https://py.dencreak.com/bn_s_sd4.m3u8?token=
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS 1080p",beIN SPORTS 5
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS 1080p",beIN SPORTS 6
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS 1080p",beIN SPORTS 7
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS 1080p",beIN SPORTS 8
+https://prod-fastly-eu-central-1.video.pscp.tv/.../dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS 1080p",beIN SPORTS 9
+http://134.19.178.202/bein-9/tracks-v1a1/mono.ts.m3u8
+
+####################### beIN SPORTS 4K #######################
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS 4K",beIN SPORTS 1
+https://py.dencreak.com/bn_s_4k1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS 4K",beIN SPORTS 2
+https://py.dencreak.com/bn_s_4k2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS 4K",beIN SPORTS 3
+https://py.dencreak.com/bn_s_4k3.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS 4K",beIN SPORTS 4
+https://py.dencreak.com/bn_s_4k4.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS 4K",beIN SPORTS 5
+https://py.dencreak.com/bn_s_4k5.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS 4K",beIN SPORTS 6
+https://py.dencreak.com/bn_s_4k6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS 4K",beIN SPORTS 7
+https://py.dencreak.com/bn_s_4k7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS 4K",beIN SPORTS 8
+https://py.dencreak.com/bn_s_4k8.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS 4K",beIN SPORTS 9
+https://py.dencreak.com/bn_s_4k9.m3u8
