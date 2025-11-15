@@ -1,0 +1,64 @@
+#EXTM3U
+
+####################### beIN SPORTS #######################
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 MULTI
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/46nxSDfa09rMtUJJ6VazshhCx_5sR7TrQpzts5pQUjzlyQeTJTkEUdOnTbKebirVBwzBUu39k5AuEKp2cAVWSQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 1080p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/46nxSDfa09rMtUJJ6VazshhCx_5sR7TrQpzts5pQUjzlyQeTJTkEUdOnTbKebirVBwzBUu39k5AuEKp2cAVWSQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 720p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/46nxSDfa09rMtUJJ6VazshhCx_5sR7TrQpzts5pQUjzlyQeTJTkEUdOnTbKebirVBwzBUu39k5AuEKp2cAVWSQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 480p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/46nxSDfa09rMtUJJ6VazshhCx_5sR7TrQpzts5pQUjzlyQeTJTkEUdOnTbKebirVBwzBUu39k5AuEKp2cAVWSQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 320p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/46nxSDfa09rMtUJJ6VazshhCx_5sR7TrQpzts5pQUjzlyQeTJTkEUdOnTbKebirVBwzBUu39k5AuEKp2cAVWSQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1.png" group-title="beIN SPORTS",beIN SPORTS 1 4K
+https://py.dencreak.com/bn_s_4k1.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS",beIN SPORTS 2 MULTI
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qwFVPwdkfF53l4SeQ6Sw6GIDoGsAnQ4zejYKrQxlUuNemmItfTj8kvFVNBTB3UxI8INgBLub3sRuBvb22Qus-w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS",beIN SPORTS 2 FHD
+http://176.119.29.35/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2.png" group-title="beIN SPORTS",beIN SPORTS 2 4K
+https://py.dencreak.com/bn_s_4k2.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS",beIN SPORTS 3 MULTI
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/nNRmp8_akcIIhNBK9OmdlRHyAAKJd1AVmEA-Ca96TcwV-c2QO8wwORf4CrZ0xWykQaLjIBNs_DvW9s7dR8qmeA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3.png" group-title="beIN SPORTS",beIN SPORTS 3 240p
+http://135.125.109.73:9000/beinsport3_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS",beIN SPORTS 4 MULTI
+https://py.dencreak.com/bn_s_sd4.m3u8?token=
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4.png" group-title="beIN SPORTS",beIN SPORTS 4 4K
+https://py.dencreak.com/bn_s_4k4.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS",beIN SPORTS 5 480p
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/2XbVOBtPh65BcTJzJWep9OcEe-hU8otdPvEdlU45Y_dnt_eMIOtQgwTji8T_fhmCLVHVh5cvoL7cV3KIhiZIOw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS",beIN SPORTS 5 low
+http://135.125.109.73:9000/beinsport5_.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5.png" group-title="beIN SPORTS",beIN SPORTS 5 4K
+https://py.dencreak.com/bn_s_4k5.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS",beIN SPORTS 6 Default
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/yJz6tYR7airabyB_T3PMChkjhq4kSjZjxT_Q0cUCzvUWlvLHUiuCLD5rn6xa8vohF9rWSGcrgilzTQoA3KKAJw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6.png" group-title="beIN SPORTS",beIN SPORTS 6 4K
+https://py.dencreak.com/bn_s_4k6.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS",beIN SPORTS 7 Default
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/3D8-4E3xKneYG-3EIydol_aZh3bZpSxtSBj43yolZbGtcv1-ZZQeVeA1izz5b5Sy4eJyz5LojE63s-vxakrmkQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7.png" group-title="beIN SPORTS",beIN SPORTS 7 4K
+https://py.dencreak.com/bn_s_4k7.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS",beIN SPORTS 8 Default
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/sBCQTVFKWolmnYny0QCGx8x-LiPbQ7eZepQGppyBt6pfL8Dj-nvKSmGz7y_Pzr-wyeaPEm5CRpD76DACzKxT7g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8.png" group-title="beIN SPORTS",beIN SPORTS 8 4K
+https://py.dencreak.com/bn_s_4k8.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS",beIN SPORTS 9 Default
+https://js2.didou.space/31dc1067-8fa1-4189-bfc2-b0550f8c477b.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS",beIN SPORTS 9 SD
+http://134.19.178.202/bein-9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9.png" group-title="beIN SPORTS",beIN 4K
+https://py.dencreak.com/bn_meta_4k_hdr.m3u8
+
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/news.png" group-title="beIN SPORTS News",بين الاخبارية HD
+https://py.dencreak.com/bn_7_news.m3u8
