@@ -55,7 +55,17 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.qa" tvg-name="سكاي نيوز" tvg-logo="https://i.top4top.io/p_3606e80xo1.jpg" group-title="News",سكاي نيوز
 https://stream.skynewsarabia.com/hls/index__6.m3u8
-#EXTINF:-1 tvg-id="AlAimma.qa" tvg-name="الائمة" tvg-logo="https://h.top4top.io/p_36064f17g1.jpg" http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="AlAimma.qa" tvg-name="الائمة" tvg-logo="https://h.top4top.io/p_36064f17g1.jpg" group-title="News",الائمة
+https://h.top4top.io/p_36064f17g1.jpg" http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+
+
+
+
 
 ################ الاطفال ################
 #EXTINF:-1 tvg-id="Spacetoon.qa" tvg-name="سبيستون" tvg-logo="https://h.top4top.io/p_3607is92i1.jpg" group-title="Kids",سبيستون
