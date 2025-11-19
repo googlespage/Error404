@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Sport 1HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="Al Rabiaa TV",Al Rabiaa Sport 1HD
+http://splustv.me:80/live/65787/54353/113628.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Sport 2HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="Al Rabiaa TV",Al Rabiaa Sport 2HD
+http://splustv.me:80/live/65787/54353/113629.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Sport 1+ HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="Al Rabiaa TV",Al Rabiaa Sport 1+ HD
+http://splustv.me:80/live/65787/54353/113630.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Sport 2+ HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-rabiaa-tv-iq.png" group-title="Al Rabiaa TV",Al Rabiaa Sport 2+ HD
+http://splustv.me:80/live/65787/54353/113631.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Geo" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa Geo
+http://splustv.me:80/live/65787/54353/139875.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Movies" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa Movies
+http://splustv.me:80/live/65787/54353/139874.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Quran" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa Quran
+http://splustv.me:80/live/65787/54353/139873.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Series" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa Series
+http://splustv.me:80/live/65787/54353/139872.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa variety" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa variety
+http://splustv.me:80/live/65787/54353/139871.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Al Rabiaa Musica" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Al Rabiaa Musica
+http://splustv.me:80/live/65787/54353/139870.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Njoom Al Rabiaa" tvg-logo="https://alrabiaa.tv/img/alrabiaa_logo.png" group-title="Al Rabiaa TV",Njoom Al Rabiaa
+http://splustv.me:80/live/65787/54353/139869.m3u8
