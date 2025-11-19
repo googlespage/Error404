@@ -89,4 +89,9 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.qa" tvg-name="mbc بوليود" tvg-logo="https://g.top4top.io/p_3609odbpf1.jpg" group-title="MBC",mbc بوليود
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-id="MBCAction.qa" tvg-name="mbc اكشن" tvg-logo="https://d.top4top.io/p_3610eyo4c1.jpg" group-title="MBC",mbc اكشن
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+
+
+
 ottt
