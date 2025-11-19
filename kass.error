@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:1 tvg-name="AI KASS 1FHD" tvg-id="Sports" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 1FHD
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:1 tvg-name="AI KASS 2 FHD" tvg-id="Sports " tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 2 FHD
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:1 tvg-name="AI KASS 3 FHD" tvg-id="sports " tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 3 FHD
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:1 tvg-name="AI KASS 4 FHD" tvg-id="Sports " tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 4 FHD
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:1 tvg-name="AI KASS 5 FHD" tvg-id="Sporta" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 5 FHD
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:1 tvg-name="AI KASS 6 FHD" tvg-id="Sports" tvg-logo="https://i.top4top.io/p_3609zbcnm1.png" group-title="Al Kass",AI KASS 6 FHD
+https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
+رئيسkass
