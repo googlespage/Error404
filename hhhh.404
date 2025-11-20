@@ -1,0 +1,81 @@
+#EXTM3U
+########### beIN SPORTS SD ###########
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD",beIN SPORTS 1 SD
+https://js.didou.pw/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2sd.png" group-title="beIN SPORTS SD",beIN SPORTS 2 SD
+https://js.didou.pw/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3sd.png" group-title="beIN SPORTS SD",beIN SPORTS 3 SD
+https://js.didou.pw/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4sd.png" group-title="beIN SPORTS SD",beIN SPORTS 4 SD
+https://js.didou.pw/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5sd.png" group-title="beIN SPORTS SD",beIN SPORTS 5 SD
+https://js.didou.pw/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6sd.png" group-title="beIN SPORTS SD",beIN SPORTS 6 SD
+https://js.didou.pw/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7sd.png" group-title="beIN SPORTS SD",beIN SPORTS 7 SD
+https://js.didou.pw/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8sd.png" group-title="beIN SPORTS SD",beIN SPORTS 8 SD
+https://js.didou.pw/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9sd.png" group-title="beIN SPORTS SD",beIN SPORTS 9 SD
+https://js.didou.pw/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
+
+########### beIN SPORTS HD ###########
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD",beIN SPORTS 1 HD
+https://js.didou.pw/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD",beIN SPORTS 2 HD
+https://js.didou.pw/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD",beIN SPORTS 3 HD
+https://js.didou.pw/29c30b88-b77a-46da-8f46-212ba02af5d7.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD",beIN SPORTS 4 HD
+https://js.didou.pw/e09943ac-48bc-4ac8-80cd-050e846dd7ad.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD",beIN SPORTS 5 HD
+https://js.didou.pw/7f270b4b-0b5f-4405-a2a3-41cbe0902821.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD",beIN SPORTS 6 HD
+https://js.didou.pw/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7hd.png" group-title="beIN SPORTS HD",beIN SPORTS 7 HD
+https://js.didou.pw/8876003a-1185-48eb-95af-aac8814681dd.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD",beIN SPORTS 8 HD
+https://js.didou.pw/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD",beIN SPORTS 9 HD
+https://js.didou.pw/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
+
+########### beIN SPORTS FHD ###########
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs1fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 1 FHD
+https://js.didou.pw/bb1a4119-65f9-40dc-9867-127f2a6973d1.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs2fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 2 FHD
+https://js.didou.pw/460a6117-53a7-4e38-a6c2-ff564589c7e6.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs3fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 3 FHD
+https://js.didou.pw/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs4fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 4 FHD
+https://js.didou.pw/6f91c9ad-073b-486a-ab15-f537f6bea3e2.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs5fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 5 FHD
+https://js.didou.pw/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs6fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 6 FHD
+https://js.didou.pw/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs7fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 7 FHD
+https://js.didou.pw/28a459e7-83c3-45c7-bac3-55d524b2a64b.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs8fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 8 FHD
+https://js.didou.pw/e814a746-94f1-4d93-8664-eb32b47673c4.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs9fhd.png" group-title="beIN SPORTS FHD",beIN SPORTS 9 FHD
+https://js.didou.pw/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
+
+########### beIN SPORTS 4K ###########
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
+https://js.didou.pw/0c55573d-12d8-43af-823b-25c94d67b190.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
+https://js.didou.pw/01ed3a36-03b2-4f64-9dfa-dea3df61b611.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
+https://js.didou.pw/d461442c-174d-413a-8f60-041e6dd4f9cc.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
+https://js.didou.pw/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
+https://js.didou.pw/d3f51267-8b0f-4e6d-baef-239e6625dd45.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
+https://js.didou.pw/ff452afc-2486-4906-a44c-9c19f60223ed.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
+https://js.didou.pw/8876003a-1185-48eb-95af-aac8814681dd.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
+https://js.didou.pw/c0acccc8-dd00-4dbe-8c03-af30b82b351b.m3u8
+#EXTINF:-1 tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
+https://js.didou.pw/72fa7606-10d0-4338-a515-19ccd1312a7b.m3u8
+hodabeinsport
